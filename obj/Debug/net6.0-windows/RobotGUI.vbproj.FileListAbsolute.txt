@@ -1,0 +1,16 @@
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\bin\Debug\net6.0-windows\RobotGUI.exe
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\bin\Debug\net6.0-windows\RobotGUI.deps.json
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\bin\Debug\net6.0-windows\RobotGUI.runtimeconfig.json
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\bin\Debug\net6.0-windows\RobotGUI.dll
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\bin\Debug\net6.0-windows\RobotGUI.pdb
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.Form1.resources
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.vbproj.GenerateResource.cache
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.AssemblyInfoInputs.cache
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.AssemblyInfo.vb
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.vbproj.CoreCompileInputs.cache
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.dll
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\refint\RobotGUI.dll
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.pdb
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.genruntimeconfig.cache
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\ref\RobotGUI.dll
