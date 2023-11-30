@@ -5,6 +5,7 @@ Public Class Robot
     Private _y As Integer
     Private _orientation As Integer
 
+
     Public Sub New(_x As Integer, _y As Integer, _orientation As Integer)
         Me._x = _x
         Me._y = _y
@@ -54,10 +55,7 @@ Public Class Robot
     End Sub
 
     Public Sub TournerADroite()
-        _orientation += 1
-        If _orientation > 4 Then
-            _orientation = 1
-        End If
+        Orientation += 1
     End Sub
 
     Public Sub Afficher(o As TextBox)

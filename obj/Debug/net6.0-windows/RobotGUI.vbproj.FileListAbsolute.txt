@@ -14,3 +14,4 @@ C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0
 C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.pdb
 C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.genruntimeconfig.cache
 C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\ref\RobotGUI.dll
+C:\Users\nsm\Desktop\Examen\Programmation O.O\Programs\RobotGUI\obj\Debug\net6.0-windows\RobotGUI.Resources.resources
